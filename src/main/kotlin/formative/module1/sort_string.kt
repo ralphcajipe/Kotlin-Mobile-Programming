@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
 /**
 import java.util.Scanner
 
-fun main(){
+fun sandbox.practice.kotlin_basics.printing.main(){
 val read = Scanner(System.`in`)
 
 print("")
