@@ -1,7 +1,7 @@
 package formative.module1
 
 /**
- * The highest number
+ * The highest number:
  * You should write a program that inputs three integer numbers and
  * display the highest value on the screen
  */

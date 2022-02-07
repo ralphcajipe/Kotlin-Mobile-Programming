@@ -5,8 +5,12 @@ package formative.module1
  * Create a program that will compute the
  * sum and average of a string inputted numbers.
  * Use array manipulation.
+ *
+ * //Example output
+ * 12345
+ * 15 3.00
  */
-fun main(args: Array<String>) {
+fun main() {
     val input = readLine()!!.toString()
     val chars = input.toCharArray()
     var sum = 0

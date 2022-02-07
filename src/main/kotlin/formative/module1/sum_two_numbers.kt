@@ -3,6 +3,11 @@ package formative.module1
 /**
  * Sum of Two Integer Numbers:
  * You should write a program that inputs two integer numbers and display the sum on the screen
+ *
+ * //Example output
+ * Enter 1st number: 10
+ * Enter 2nd number: 20
+ * The sum of 10 and 20 is 30
  */
 
 import java.util.Scanner
