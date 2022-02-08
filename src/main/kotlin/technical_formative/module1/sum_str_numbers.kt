@@ -1,4 +1,4 @@
-package formative.module1
+package technical_formative.module1
 
 /**
  * Sum of String Numbers:

@@ -1,4 +1,4 @@
-package formative.module1
+package technical_formative.module1
 
 /**
  * The highest number:
