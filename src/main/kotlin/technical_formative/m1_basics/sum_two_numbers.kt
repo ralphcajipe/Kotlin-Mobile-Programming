@@ -1,4 +1,4 @@
-package technical_formative.module1
+package technical_formative.m1_basics
 
 /**
  * Sum of Two Integer Numbers:

@@ -1,4 +1,4 @@
-package technical_formative.module2
+package technical_formative.m2_classes_objects
 
 /**
  * Classes and Inheritance
