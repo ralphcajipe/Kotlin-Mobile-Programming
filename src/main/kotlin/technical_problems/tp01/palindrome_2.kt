@@ -1,9 +1,11 @@
 package technical_problems.tp01
 
+import java.util.*
+
 fun main() {
     val word = readLine()!!.toString()
-    val str = word.toUpperCase().reversed()
-    val upperWord = word.toUpperCase()
+    val str = word.uppercase(Locale.getDefault()).reversed()
+    val upperWord = word.uppercase(Locale.getDefault())
     if (upperWord == str) {
         print("\"$word\" is a palindrome")
     } else {

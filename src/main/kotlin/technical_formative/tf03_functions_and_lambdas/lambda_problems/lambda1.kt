@@ -1,4 +1,10 @@
-package technical_formative.tf03_functions_and_lambdas
+package technical_formative.tf03_functions_and_lambdas.lambda_problems
+
+/**
+ * Lambda expression that will display the number of vowels
+ * (regardless of the letter case of the characters)
+ * from a given input string.
+ */
 
 fun main() {
     print("Enter some string: ")
@@ -7,7 +13,8 @@ fun main() {
     val filterStr = str.filter {
         // Lambda Expression: Check if a character is a vowel
         when (it) {
-            'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' -> true
+            'a', 'e', 'i', 'o', 'u',
+            'A', 'E', 'I', 'O', 'U' -> true
             else -> false
         }
     }

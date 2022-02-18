@@ -1,4 +1,4 @@
-package technical_formative.tf03_functions_and_lambdas
+package technical_formative.tf03_functions_and_lambdas.function_problems
 
 /**
  * The product of odd or even digit numbers:
