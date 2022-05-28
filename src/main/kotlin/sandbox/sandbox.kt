@@ -1,4 +1,4 @@
-package zsandbox
+package sandbox
 
 fun main() {
 

@@ -1,4 +1,4 @@
-package technical_problems.tp01
+package technical_summative.ts01
 
 /**
  * Palindrome:

@@ -1,4 +1,4 @@
-package technical_problems.tp02
+package technical_summative.ts02
 
 /**
  *  Function Problem: Fibonacci Sequence
